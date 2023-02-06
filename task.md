@@ -1,4 +1,4 @@
-# Angular stack coding task
+# Angular coding task
 Welcome to Unvoid Tech Angular coding task.
 
 ![image](https://i.ibb.co/4FpK1zB/Screenshot-20230205-104711.png)
@@ -7,10 +7,13 @@ Welcome to Unvoid Tech Angular coding task.
 Create a simple Rick and Morty app that displays a list of characters from the show and allows users to view details about each character.
 
 Sample character card
+
 ![image](https://user-images.githubusercontent.com/124139608/216905974-54456783-f951-4e1c-8b08-d13d9b4ce57f.png)
 
 * use https://rickandmortyapi.com/api to fetch characters and their details
 * for api documentation visit https://rickandmortyapi.com/documentation/#rest
+
+
 
 You can find specific acceptance criteria below.
 
