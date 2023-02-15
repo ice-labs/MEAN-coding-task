@@ -1,7 +1,5 @@
 # Angular coding task
-Welcome to Unvoid Tech Angular coding task.
-
-![image](https://i.ibb.co/4FpK1zB/Screenshot-20230205-104711.png)
+Welcome to learnmall.in Tech Angular coding task.
 
 ## The task
 Create a simple Rick and Morty app that displays a list of characters from the show and allows users to view details about each character.
